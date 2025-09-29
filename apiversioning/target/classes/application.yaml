@@ -1,0 +1,6 @@
+api:
+  version:
+    header-name: X-API-VERSION
+    v1: 1
+    v2: 2
+    default: 1
